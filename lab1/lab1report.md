@@ -27,7 +27,7 @@ print(f"{name} start programming at {datetime.now()}")
 
    Додав ще одну комірку з типом Markdown, результат:
 
-![alt text](https://i.imgur.com/AfvX0oD.jpg "Результат")
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab1/src/src_lab1_2.png "Результат")
 
 ### Висновок: 
     Я скачав Python, навчився створювати файли .py .ipynb та редагувати їх. Виконав всі завдання, складнощів не виникло.
