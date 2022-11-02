@@ -6,7 +6,7 @@
 - Результати виконання завдання:
     1. Що вивела програма:
 
-        ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab3_1.png "Результат виконання завдання")
+        ![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab3/srclab3/src1_3.png "Результат виконання завдання")
     
     2. Ознайомився з кодом.
     3. Модифікував програму додавши своє ім'я в список:
@@ -23,7 +23,7 @@
         ```
         - Допишіть функцію в класі яка порахує кількість букв і імені (підказка: використайте функцію `len()`);  
         
-        ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab3_3.png "Результат виконання завдання")
+        ![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab3/srclab3/src3_3.png "Результат виконання завдання")
         
         - Порахуйте кількість імен у списку `names` та порівняйте із виведеним результатом. Дайте відповідь чому маємо різну кількість імен?  
         Чесно не знаю, але можливо воно `None` регає як одне ім'я, а потім `Anonymous` як інше?
