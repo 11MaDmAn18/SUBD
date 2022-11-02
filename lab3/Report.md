@@ -11,7 +11,7 @@
     2. Ознайомився з кодом.
     3. Модифікував програму додавши своє ім'я в список:
 
-        ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab3_2.png "Результат виконання завдання")
+        ![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab3/srclab3/src2_3.png "Результат виконання завдання")
     
     4. Відповіді на запитання:
         - Чому коли передаємо значення `None` створюється обєкт з іменем `Anonymous`?  
