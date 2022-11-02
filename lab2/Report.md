@@ -14,27 +14,25 @@
     
     3. Результат роботи вбудованих функцій:
 
-    ![alt text]( "Результат виконання завдання")
+    ![alt text]( https://github.com/11MaDmAn18/SUBD/blob/main/lab2/srclab2/src3_2.png "Результат виконання завдання")
     
     4. Цикли:
 
-    ![alt text]( "Результат виконання завдання")
+    ![alt text]( https://github.com/11MaDmAn18/SUBD/blob/main/lab2/srclab2/src4_2.png "Результат виконання завдання")
     
     5. Розгалуження:
 
-    ![alt text]( "Результат виконання завдання")
+    ![alt text]( https://github.com/11MaDmAn18/SUBD/blob/main/lab2/srclab2/src5_2.png "Результат виконання завдання")
     
     6. Конструкція try->except->finally:
 
-    ![alt text]( "Результат виконання завдання")
     
     7. Контекст-менеджер with:
 
-    ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_7.png "Результат виконання завдання")
     
     8. Lambda:
 
-    ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_8.png "Результат виконання завдання")
+    ![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab2/srclab2/src678_2.png "Результат виконання завдання")
 
 ### Висновок: 
 - :question: Що зроблено в роботі;
