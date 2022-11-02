@@ -23,7 +23,7 @@ print(f"{name} start programming at {datetime.now()}")
 ```
    Програма вивела значення "Dmytro start programming at 2022-10-27 13:39:28.026029":
 
-![alt text](https://i.imgur.com/wJmGVb1.jpg "Результат")
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab1/src/src_lab1_1.png "Результат")
 
    Додав ще одну комірку з типом Markdown, результат:
 
