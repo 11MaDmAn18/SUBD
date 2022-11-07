@@ -24,7 +24,10 @@
 ![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab4/srclab4/src4_4.png "Результат")
 
 Інші скріни:
-
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab4/srclab4/src9_4.png "Результат")
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab4/srclab4/src_pipenv%20--help_4.png "Результат")
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab4/srclab4/srccomnds_4.png "Результат")
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab4/srclab4/srcdoing_4.png "Результат")
 
 Висновок:
 ❓ Що зроблено в роботі;
