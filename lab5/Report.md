@@ -3,21 +3,20 @@
 Мета роботи: Перевірка assert
 Виконання роботи
 Це процес перевірки правильності роботи програм, їх функцій та поведінки при різних умовах роботи шляхом створення штучних ситуацій або сценаріїв.
-
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab5/srclab5/src1_5.png "Результат")
 Для роботи нам буде потрібно створити декілька Python файлів.
 Перевірка assert
-
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab5/srclab5/src2_5.png "Результат")
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab5/srclab5/src3_5.png "Результат")
 
 Юніт тести
-
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab5/srclab5/src4_5.png "Результат")
 
 Юніт тести з використання бібліотеки PyTest
 
 Візуалізація результатів та покриття коду Coverage (pytest-cov)
 
 Висновок:
-у висновку потрібно відповісти на запитання:
-
 
 ❓ Що зроблено в роботі; 
 - Тестування.
