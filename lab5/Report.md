@@ -13,9 +13,10 @@
 ![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab5/srclab5/src4_5.png "Результат")
 
 Юніт тести з використання бібліотеки PyTest
-
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab5/srclab5/src5_5.png "Результат")
 Візуалізація результатів та покриття коду Coverage (pytest-cov)
-
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab5/srclab5/src6_5.png "Результат")
+![alt text](https://github.com/11MaDmAn18/SUBD/blob/main/lab5/srclab5/src7_5.png "Результат")
 Висновок:
 
 ❓ Що зроблено в роботі; 
